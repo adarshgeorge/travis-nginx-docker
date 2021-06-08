@@ -1,6 +1,6 @@
 FROM alpine:3.8
 
-LABEL Maintainer="Nithin <nithinbenny444@gmail.com>"
+LABEL Maintainer="Adarsh K <adarshgeorge999@gmail.com>"
 
 RUN apk update \
     && apk add --no-cache nginx
