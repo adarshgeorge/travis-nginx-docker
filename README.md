@@ -1,4 +1,4 @@
-##########Usage############
+#Usage
 docker build -t alpine-nginx:tag .
 docker run -d --env-file=nginx-domain-env --name nginx-app -i alpine-nginx:tag
 
