@@ -11,3 +11,4 @@ You can change the domain name in the nginx-domain-env file and use
 ########## Happy Docker #########
 
 
+# travis-nginx-docker
